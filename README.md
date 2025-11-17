@@ -1,9 +1,4 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://raskunet.github.io"> Shaheer Rashad</a></b></samp></h3>
-<p align="center"><br>
-  <samp>
-     Computer Science Bachelor of Science Candidate @ <b> Nuces Fast</b><br>
-  </samp>
-</p>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
